@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cesar-zu%c3%b1iga-b6b3b3129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar-zu%c3%b1iga-b6b3b3129" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cesar-zuniga-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar-zu%c3%b1iga-b6b3b3129" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
