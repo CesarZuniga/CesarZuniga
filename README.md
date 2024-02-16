@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mobiik**
+- 🔭 I’m currently working on <a href="https://mobiik.com/" target="blank"> <img loading="lazy"  src="https://mobiik.com/wp-content/uploads/2022/07/mobiik_futuroAsset48.png" width="60" height="40"> </a>
 
 - 💬 Ask me about **Angular,Vue,Typescript,C#,.Net**
 
